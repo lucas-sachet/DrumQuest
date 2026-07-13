@@ -1,0 +1,6 @@
+{
+  "name": "DrumQuest",
+  "description": "Gamified SaaS platform for drum learning with adaptive paths, visual skill trees, and interactive metronomes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
